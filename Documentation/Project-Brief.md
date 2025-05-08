@@ -1,4 +1,4 @@
-Project Brief: SmartAssist - Internal LLM Solution
+# Project Brief: SmartAssist - Internal LLM Solution
 
 ## 1. Project Overview
 
