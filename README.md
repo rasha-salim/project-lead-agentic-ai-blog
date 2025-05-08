@@ -1,1 +1,1 @@
-# project-leadership-evolution
+# project-lead-agentic-ai-blog
