@@ -1,5 +1,17 @@
 # Project Lead Agentic AI Blog
 
-This repository contains the support materials for the blog series **"Empowering Project Leaders with Agentic AI"**, Part One: *"Dawn of Large Language Models"*.
+Welcome to the repository for the blog series **"Empowering Project Leaders with Agentic AI"**. This series explores the transformative potential of AI in project leadership. 
 
-For more information, please visit the blog using the link below:
+### Blog Series Overview
+- **Part One:** *"Dawn of Large Language Models"*
+- **Part Two:** *"TBD"*
+- **Part Three:** *"TBD"*
+
+### Additional Resources
+This repository includes supplementary materials, and references to enhance your understanding of the topics discussed in the blog.
+Will keep include the resources as I'm working on the blog series.
+
+For more details, visit the blog using the link below:
+- [Empowering Project Leaders with Agentic AI Blog](#)
+
+Stay tuned for updates and new content!
