@@ -12,6 +12,6 @@ This repository includes supplementary materials, and references to enhance your
 Will keep include the resources as I'm working on the blog series.
 
 For more details, visit the blog using the link below:
-- [Empowering Project Leaders with Agentic AI Blog](#)
+- [Empowering Project Leaders with Agentic AI Blog](https://rasha-salim.medium.com/project-leadership-implementing-llms-agentic-ai-1d922ce5ea72)
 
 Stay tuned for updates and new content!
